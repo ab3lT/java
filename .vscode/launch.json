@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - course",
+            "request": "launch",
+            "mainClass": "course",
+            "projectName": "class Exeresises_dca5ed97"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AbstractionBreaker",
+            "request": "launch",
+            "mainClass": "AbstractionBreaker",
+            "projectName": "class Exeresises_dca5ed97"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GBProgram",
+            "request": "launch",
+            "mainClass": "GBProgram",
+            "projectName": "class Exeresises_dca5ed97"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - gradebook",
+            "request": "launch",
+            "mainClass": "gradebook"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GradebookOO",
+            "request": "launch",
+            "mainClass": "GradebookOO"
+        }
+    ]
+}
